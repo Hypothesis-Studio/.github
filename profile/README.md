@@ -13,7 +13,7 @@
 | Project | Description |
 |---------|-------------|
 | 📝 **[Hypothesis Editor](https://github.com/Hypothesis-Studio/Hypothesis-Editor)** | Create and edit Hypothesis projects with an intuitive interface. |
-| 🧩 **[Hypothesis Extensions](https://github.com/Hypothesis-Studio/Hypothesis-Extensions)** | Official collection of extensions for Hypothesis Editor. |
+| 🧩 **[Hypothesis Extension](https://github.com/Hypothesis-Studio/Hypothesis-Extension)** | Official collection of extensions for Hypothesis Editor. |
 
 ---
 
