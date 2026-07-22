@@ -26,8 +26,8 @@ Check each repository's `CONTRIBUTING.md` for specific guidelines.
 ## Links
 
 - 💬 [Discussions](https://github.com/orgs/Hypothesis-Studio/discussions/categories/general)
-- 💡 [Request a Feature](https://github.com/Hypothesis-Studio/orgs/Hypothesis-Studio/discussions/categories/ideas)
-- 🐞 [Report a Bug](https://github.com/Hypothesis-Studio/orgs/Hypothesis-Studio/discussions/categories/bugs)
+- 💡 [Request a Feature](https://github.com/orgs/Hypothesis-Studio/discussions/categories/ideas)
+- 🐞 [Report a Bug](https://github.com/orgs/Hypothesis-Studio/discussions/categories/q-a)
 - 🙏 [Q&A](https://github.com/orgs/Hypothesis-Studio/discussions/categories/q-a)
 
 ## License
