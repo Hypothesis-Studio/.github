@@ -25,9 +25,10 @@ Check each repository's `CONTRIBUTING.md` for specific guidelines.
 
 ## Links
 
-- 🐛 [Report a Bug](https://github.com/Hypothesis-Studio/Hypothesis-Editor/issues/new?template=bug_report.md)
-- 💡 [Request a Feature](https://github.com/Hypothesis-Studio/Hypothesis-Editor/issues/new?template=feature_request.md)
-- 💬 [Discussions](https://github.com/Hypothesis-Studio/Hypothesis-Editor/discussions)
+- 💬 [Discussions](https://github.com/orgs/Hypothesis-Studio/discussions/categories/general)
+- 💡 [Request a Feature](https://github.com/Hypothesis-Studio/orgs/Hypothesis-Studio/discussions/categories/ideas)
+- 🐞 [Report a Bug](https://github.com/Hypothesis-Studio/orgs/Hypothesis-Studio/discussions/categories/bugs)
+- 🙏 [Q&A](https://github.com/orgs/Hypothesis-Studio/discussions/categories/q-a)
 
 ## License
 
